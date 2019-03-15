@@ -1,0 +1,5 @@
+1-Coloque o banco de teste.sql no Sql Server.
+2-Configure a pasta conexão com os dados da conexão
+3-Configure as SESSIONS e adicione ou remova parâmetros de acordo com os dados que deseje puxar do banco. E também as procedures, ou consultas.
+4-Para as páginas que são bloqueadas aos usuários que não estão logados, coloque o verificar login, e também edite de acordo com os seus dados as SESSIONS. Pode-se fazer também uma página de quando o usuário não estiver logado, pedindo para autenticar-se para acessar o sistema.
+Obs: O die após incluir a página facalogin.php serve para bloquear a exibição da página. O código está todo comentado, está de uma forma bem simples e objetiva o código.
